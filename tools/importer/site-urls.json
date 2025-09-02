@@ -1,0 +1,135 @@
+{
+  "originUrl": "https://www.pictet.com",
+  "aborted": false,
+  "urls": [
+    {
+      "url": "https://www.pictet.com/global/en",
+      "source": "MANUAL",
+      "targetPath": "/global/en",
+      "id": "c993d4b4f44062d0c6562ca24bb128ea7faf30e3"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/about",
+      "source": "MANUAL",
+      "targetPath": "/global/en/about",
+      "id": "40f44297ec88ed014ece3f72806ce6841397d7c8"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont",
+      "source": "MANUAL",
+      "targetPath": "/global/en/about/campus-pictet-de-rochemont",
+      "id": "aa17864e1b010c07d2343c5a6b338a0761342dd3"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont/news/green-spaces-of-the-campus",
+      "source": "MANUAL",
+      "targetPath": "/global/en/about/campus-pictet-de-rochemont/news/green-spaces-of-the-campus",
+      "id": "aeef8fce2cf0eb6578670d8004e49865eb5ef1db"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/about/collection-pictet",
+      "source": "MANUAL",
+      "targetPath": "/global/en/about/collection-pictet",
+      "id": "f81b219afdc8f73aa44266989371e15029a47766"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/about/origins-of-pictet/story-worth-telling",
+      "source": "MANUAL",
+      "targetPath": "/global/en/about/origins-of-pictet/story-worth-telling",
+      "id": "f93844ba2689b679743e3ba0b25fbb4e3d929e49"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/about/partners",
+      "source": "MANUAL",
+      "targetPath": "/global/en/about/partners",
+      "id": "32995532f1d9c1aa1b0094c3b7c31a6f7f254e39"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/about/pictet-corporate-ratings",
+      "source": "MANUAL",
+      "targetPath": "/global/en/about/pictet-corporate-ratings",
+      "id": "3e04a887d1c993af5e2d179d6b27a535d93aa588"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/about/stability",
+      "source": "MANUAL",
+      "targetPath": "/global/en/about/stability",
+      "id": "f20ac943740c146b620ace22e4f115658f1d6f6d"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/contacts",
+      "source": "MANUAL",
+      "targetPath": "/global/en/contacts",
+      "id": "d2ca3fadcfef424a599357a0978f19ca7aa8b88f"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/corporate-news",
+      "source": "MANUAL",
+      "targetPath": "/global/en/corporate-news",
+      "id": "c33608aa1598a04df577d7553fae4c77d2168bd0"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/corporate-news/BRICS-and-investment-opportunities",
+      "source": "MANUAL",
+      "targetPath": "/global/en/corporate-news/brics-and-investment-opportunities",
+      "id": "d3a178b47ab8d87b9ab8910f36e8f95630fd6f1f"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/corporate-news/is-ai-taking-over",
+      "source": "MANUAL",
+      "targetPath": "/global/en/corporate-news/is-ai-taking-over",
+      "id": "d9a37a607be9abb56a099dc12f9a4516efef30ef"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/corporate-news/pictet-technologies-opens-new-hub-lisbon",
+      "source": "MANUAL",
+      "targetPath": "/global/en/corporate-news/pictet-technologies-opens-new-hub-lisbon",
+      "id": "faaf319ccf6fe60e8109dae4ffd848d5177246ed"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/corporate-news/release-first-half-year-2025-figures",
+      "source": "MANUAL",
+      "targetPath": "/global/en/corporate-news/release-first-half-year-2025-figures",
+      "id": "d2662a611ae883792bac831fb7803be86bd3f4c2"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/offices",
+      "source": "MANUAL",
+      "targetPath": "/global/en/offices",
+      "id": "f628033b44518aebcd7983836f5e0fa553a197cd"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/responsible-vision",
+      "source": "MANUAL",
+      "targetPath": "/global/en/responsible-vision",
+      "id": "548120254ad151e9d075d2a2678f595da456d696"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/responsible-vision/pictet-group-foundation",
+      "source": "MANUAL",
+      "targetPath": "/global/en/responsible-vision/pictet-group-foundation",
+      "id": "b59754834d963398dda80f59c2b79b124e60d816"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/responsible-vision/prix-pictet",
+      "source": "MANUAL",
+      "targetPath": "/global/en/responsible-vision/prix-pictet",
+      "id": "c0c0a8fb22538d3f1e21e6fd1cd57d7608571ce1"
+    }
+  ],
+  "lastCrawled": null,
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "manual",
+    "strategiesAttempted": [
+      "MANUAL"
+    ]
+  },
+  "extractionErrors": [],
+  "errorCountMessage": "none"
+}
