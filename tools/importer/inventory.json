@@ -1,0 +1,2391 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/partners",
+          "urlHash": "32995532f1d9c1aa1b0094c3b7c31a6f7f254e39",
+          "uuid": "32995532-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/pictet-corporate-ratings",
+          "urlHash": "3e04a887d1c993af5e2d179d6b27a535d93aa588",
+          "uuid": "3e04a887-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about",
+          "urlHash": "40f44297ec88ed014ece3f72806ce6841397d7c8",
+          "uuid": "40f44297-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision",
+          "urlHash": "548120254ad151e9d075d2a2678f595da456d696",
+          "uuid": "54812025-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont",
+          "urlHash": "aa17864e1b010c07d2343c5a6b338a0761342dd3",
+          "uuid": "aa17864e-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont/news/green-spaces-of-the-campus",
+          "urlHash": "aeef8fce2cf0eb6578670d8004e49865eb5ef1db",
+          "uuid": "aeef8fce-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/pictet-group-foundation",
+          "urlHash": "b59754834d963398dda80f59c2b79b124e60d816",
+          "uuid": "b5975483-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/prix-pictet",
+          "urlHash": "c0c0a8fb22538d3f1e21e6fd1cd57d7608571ce1",
+          "uuid": "c0c0a8fb-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news",
+          "urlHash": "c33608aa1598a04df577d7553fae4c77d2168bd0",
+          "uuid": "c33608aa-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en",
+          "urlHash": "c993d4b4f44062d0c6562ca24bb128ea7faf30e3",
+          "uuid": "c993d4b4-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/release-first-half-year-2025-figures",
+          "urlHash": "d2662a611ae883792bac831fb7803be86bd3f4c2",
+          "uuid": "d2662a61-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/contacts",
+          "urlHash": "d2ca3fadcfef424a599357a0978f19ca7aa8b88f",
+          "uuid": "d2ca3fad-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/BRICS-and-investment-opportunities",
+          "urlHash": "d3a178b47ab8d87b9ab8910f36e8f95630fd6f1f",
+          "uuid": "d3a178b4-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/is-ai-taking-over",
+          "urlHash": "d9a37a607be9abb56a099dc12f9a4516efef30ef",
+          "uuid": "d9a37a60-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/stability",
+          "urlHash": "f20ac943740c146b620ace22e4f115658f1d6f6d",
+          "uuid": "f20ac943-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/offices",
+          "urlHash": "f628033b44518aebcd7983836f5e0fa553a197cd",
+          "uuid": "f628033b-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/collection-pictet",
+          "urlHash": "f81b219afdc8f73aa44266989371e15029a47766",
+          "uuid": "f81b219a-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/origins-of-pictet/story-worth-telling",
+          "urlHash": "f93844ba2689b679743e3ba0b25fbb4e3d929e49",
+          "uuid": "f93844ba-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/pictet-technologies-opens-new-hub-lisbon",
+          "urlHash": "faaf319ccf6fe60e8109dae4ffd848d5177246ed",
+          "uuid": "faaf319c-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        }
+      ],
+      "styles": {
+        "height": 1071,
+        "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 4,
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/partners",
+          "urlHash": "32995532f1d9c1aa1b0094c3b7c31a6f7f254e39",
+          "uuid": "32995532-04-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/partners",
+          "urlHash": "32995532f1d9c1aa1b0094c3b7c31a6f7f254e39",
+          "uuid": "32995532-05-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/partners",
+          "urlHash": "32995532f1d9c1aa1b0094c3b7c31a6f7f254e39",
+          "uuid": "32995532-06-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/partners",
+          "urlHash": "32995532f1d9c1aa1b0094c3b7c31a6f7f254e39",
+          "uuid": "32995532-07-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/pictet-corporate-ratings",
+          "urlHash": "3e04a887d1c993af5e2d179d6b27a535d93aa588",
+          "uuid": "3e04a887-05-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/pictet-corporate-ratings",
+          "urlHash": "3e04a887d1c993af5e2d179d6b27a535d93aa588",
+          "uuid": "3e04a887-06-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/pictet-corporate-ratings",
+          "urlHash": "3e04a887d1c993af5e2d179d6b27a535d93aa588",
+          "uuid": "3e04a887-07-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/pictet-corporate-ratings",
+          "urlHash": "3e04a887d1c993af5e2d179d6b27a535d93aa588",
+          "uuid": "3e04a887-08-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about",
+          "urlHash": "40f44297ec88ed014ece3f72806ce6841397d7c8",
+          "uuid": "40f44297-12-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about",
+          "urlHash": "40f44297ec88ed014ece3f72806ce6841397d7c8",
+          "uuid": "40f44297-13-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about",
+          "urlHash": "40f44297ec88ed014ece3f72806ce6841397d7c8",
+          "uuid": "40f44297-14-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about",
+          "urlHash": "40f44297ec88ed014ece3f72806ce6841397d7c8",
+          "uuid": "40f44297-15-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision",
+          "urlHash": "548120254ad151e9d075d2a2678f595da456d696",
+          "uuid": "54812025-04-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision",
+          "urlHash": "548120254ad151e9d075d2a2678f595da456d696",
+          "uuid": "54812025-05-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision",
+          "urlHash": "548120254ad151e9d075d2a2678f595da456d696",
+          "uuid": "54812025-06-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision",
+          "urlHash": "548120254ad151e9d075d2a2678f595da456d696",
+          "uuid": "54812025-07-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont",
+          "urlHash": "aa17864e1b010c07d2343c5a6b338a0761342dd3",
+          "uuid": "aa17864e-04-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont",
+          "urlHash": "aa17864e1b010c07d2343c5a6b338a0761342dd3",
+          "uuid": "aa17864e-05-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont",
+          "urlHash": "aa17864e1b010c07d2343c5a6b338a0761342dd3",
+          "uuid": "aa17864e-06-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont",
+          "urlHash": "aa17864e1b010c07d2343c5a6b338a0761342dd3",
+          "uuid": "aa17864e-07-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont/news/green-spaces-of-the-campus",
+          "urlHash": "aeef8fce2cf0eb6578670d8004e49865eb5ef1db",
+          "uuid": "aeef8fce-06-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont/news/green-spaces-of-the-campus",
+          "urlHash": "aeef8fce2cf0eb6578670d8004e49865eb5ef1db",
+          "uuid": "aeef8fce-07-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont/news/green-spaces-of-the-campus",
+          "urlHash": "aeef8fce2cf0eb6578670d8004e49865eb5ef1db",
+          "uuid": "aeef8fce-08-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont/news/green-spaces-of-the-campus",
+          "urlHash": "aeef8fce2cf0eb6578670d8004e49865eb5ef1db",
+          "uuid": "aeef8fce-09-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/pictet-group-foundation",
+          "urlHash": "b59754834d963398dda80f59c2b79b124e60d816",
+          "uuid": "b5975483-10-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/pictet-group-foundation",
+          "urlHash": "b59754834d963398dda80f59c2b79b124e60d816",
+          "uuid": "b5975483-11-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/pictet-group-foundation",
+          "urlHash": "b59754834d963398dda80f59c2b79b124e60d816",
+          "uuid": "b5975483-12-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/pictet-group-foundation",
+          "urlHash": "b59754834d963398dda80f59c2b79b124e60d816",
+          "uuid": "b5975483-13-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/prix-pictet",
+          "urlHash": "c0c0a8fb22538d3f1e21e6fd1cd57d7608571ce1",
+          "uuid": "c0c0a8fb-06-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/prix-pictet",
+          "urlHash": "c0c0a8fb22538d3f1e21e6fd1cd57d7608571ce1",
+          "uuid": "c0c0a8fb-07-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/prix-pictet",
+          "urlHash": "c0c0a8fb22538d3f1e21e6fd1cd57d7608571ce1",
+          "uuid": "c0c0a8fb-08-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/prix-pictet",
+          "urlHash": "c0c0a8fb22538d3f1e21e6fd1cd57d7608571ce1",
+          "uuid": "c0c0a8fb-09-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news",
+          "urlHash": "c33608aa1598a04df577d7553fae4c77d2168bd0",
+          "uuid": "c33608aa-08-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news",
+          "urlHash": "c33608aa1598a04df577d7553fae4c77d2168bd0",
+          "uuid": "c33608aa-09-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news",
+          "urlHash": "c33608aa1598a04df577d7553fae4c77d2168bd0",
+          "uuid": "c33608aa-10-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news",
+          "urlHash": "c33608aa1598a04df577d7553fae4c77d2168bd0",
+          "uuid": "c33608aa-11-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en",
+          "urlHash": "c993d4b4f44062d0c6562ca24bb128ea7faf30e3",
+          "uuid": "c993d4b4-08-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en",
+          "urlHash": "c993d4b4f44062d0c6562ca24bb128ea7faf30e3",
+          "uuid": "c993d4b4-09-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en",
+          "urlHash": "c993d4b4f44062d0c6562ca24bb128ea7faf30e3",
+          "uuid": "c993d4b4-10-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en",
+          "urlHash": "c993d4b4f44062d0c6562ca24bb128ea7faf30e3",
+          "uuid": "c993d4b4-11-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/release-first-half-year-2025-figures",
+          "urlHash": "d2662a611ae883792bac831fb7803be86bd3f4c2",
+          "uuid": "d2662a61-06-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/release-first-half-year-2025-figures",
+          "urlHash": "d2662a611ae883792bac831fb7803be86bd3f4c2",
+          "uuid": "d2662a61-07-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/release-first-half-year-2025-figures",
+          "urlHash": "d2662a611ae883792bac831fb7803be86bd3f4c2",
+          "uuid": "d2662a61-08-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/release-first-half-year-2025-figures",
+          "urlHash": "d2662a611ae883792bac831fb7803be86bd3f4c2",
+          "uuid": "d2662a61-09-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/contacts",
+          "urlHash": "d2ca3fadcfef424a599357a0978f19ca7aa8b88f",
+          "uuid": "d2ca3fad-03-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/contacts",
+          "urlHash": "d2ca3fadcfef424a599357a0978f19ca7aa8b88f",
+          "uuid": "d2ca3fad-04-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/contacts",
+          "urlHash": "d2ca3fadcfef424a599357a0978f19ca7aa8b88f",
+          "uuid": "d2ca3fad-05-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/contacts",
+          "urlHash": "d2ca3fadcfef424a599357a0978f19ca7aa8b88f",
+          "uuid": "d2ca3fad-06-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/BRICS-and-investment-opportunities",
+          "urlHash": "d3a178b47ab8d87b9ab8910f36e8f95630fd6f1f",
+          "uuid": "d3a178b4-06-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/BRICS-and-investment-opportunities",
+          "urlHash": "d3a178b47ab8d87b9ab8910f36e8f95630fd6f1f",
+          "uuid": "d3a178b4-07-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/BRICS-and-investment-opportunities",
+          "urlHash": "d3a178b47ab8d87b9ab8910f36e8f95630fd6f1f",
+          "uuid": "d3a178b4-08-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/BRICS-and-investment-opportunities",
+          "urlHash": "d3a178b47ab8d87b9ab8910f36e8f95630fd6f1f",
+          "uuid": "d3a178b4-09-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/is-ai-taking-over",
+          "urlHash": "d9a37a607be9abb56a099dc12f9a4516efef30ef",
+          "uuid": "d9a37a60-06-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/is-ai-taking-over",
+          "urlHash": "d9a37a607be9abb56a099dc12f9a4516efef30ef",
+          "uuid": "d9a37a60-07-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/is-ai-taking-over",
+          "urlHash": "d9a37a607be9abb56a099dc12f9a4516efef30ef",
+          "uuid": "d9a37a60-08-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/is-ai-taking-over",
+          "urlHash": "d9a37a607be9abb56a099dc12f9a4516efef30ef",
+          "uuid": "d9a37a60-09-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/stability",
+          "urlHash": "f20ac943740c146b620ace22e4f115658f1d6f6d",
+          "uuid": "f20ac943-03-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/stability",
+          "urlHash": "f20ac943740c146b620ace22e4f115658f1d6f6d",
+          "uuid": "f20ac943-04-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/stability",
+          "urlHash": "f20ac943740c146b620ace22e4f115658f1d6f6d",
+          "uuid": "f20ac943-05-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/stability",
+          "urlHash": "f20ac943740c146b620ace22e4f115658f1d6f6d",
+          "uuid": "f20ac943-06-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/offices",
+          "urlHash": "f628033b44518aebcd7983836f5e0fa553a197cd",
+          "uuid": "f628033b-04-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/offices",
+          "urlHash": "f628033b44518aebcd7983836f5e0fa553a197cd",
+          "uuid": "f628033b-05-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/offices",
+          "urlHash": "f628033b44518aebcd7983836f5e0fa553a197cd",
+          "uuid": "f628033b-06-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/offices",
+          "urlHash": "f628033b44518aebcd7983836f5e0fa553a197cd",
+          "uuid": "f628033b-07-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/collection-pictet",
+          "urlHash": "f81b219afdc8f73aa44266989371e15029a47766",
+          "uuid": "f81b219a-08-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/collection-pictet",
+          "urlHash": "f81b219afdc8f73aa44266989371e15029a47766",
+          "uuid": "f81b219a-09-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/collection-pictet",
+          "urlHash": "f81b219afdc8f73aa44266989371e15029a47766",
+          "uuid": "f81b219a-10-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/collection-pictet",
+          "urlHash": "f81b219afdc8f73aa44266989371e15029a47766",
+          "uuid": "f81b219a-11-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/origins-of-pictet/story-worth-telling",
+          "urlHash": "f93844ba2689b679743e3ba0b25fbb4e3d929e49",
+          "uuid": "f93844ba-05-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/origins-of-pictet/story-worth-telling",
+          "urlHash": "f93844ba2689b679743e3ba0b25fbb4e3d929e49",
+          "uuid": "f93844ba-06-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/origins-of-pictet/story-worth-telling",
+          "urlHash": "f93844ba2689b679743e3ba0b25fbb4e3d929e49",
+          "uuid": "f93844ba-07-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/origins-of-pictet/story-worth-telling",
+          "urlHash": "f93844ba2689b679743e3ba0b25fbb4e3d929e49",
+          "uuid": "f93844ba-08-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/pictet-technologies-opens-new-hub-lisbon",
+          "urlHash": "faaf319ccf6fe60e8109dae4ffd848d5177246ed",
+          "uuid": "faaf319c-06-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/pictet-technologies-opens-new-hub-lisbon",
+          "urlHash": "faaf319ccf6fe60e8109dae4ffd848d5177246ed",
+          "uuid": "faaf319c-07-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/pictet-technologies-opens-new-hub-lisbon",
+          "urlHash": "faaf319ccf6fe60e8109dae4ffd848d5177246ed",
+          "uuid": "faaf319c-08-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/pictet-technologies-opens-new-hub-lisbon",
+          "urlHash": "faaf319ccf6fe60e8109dae4ffd848d5177246ed",
+          "uuid": "faaf319c-09-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Columns",
+      "cluster": 1,
+      "source": "Columns",
+      "target": "Columns (columns1)",
+      "key": "columns1",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about",
+          "urlHash": "40f44297ec88ed014ece3f72806ce6841397d7c8",
+          "uuid": "40f44297-11-1aed7ec5422a987cc8b573f89f61c0d5d40f3ea1",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[10]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/pictet-group-foundation",
+          "urlHash": "b59754834d963398dda80f59c2b79b124e60d816",
+          "uuid": "b5975483-05-3bfb7e9f7949209ebed12e68a16d55c0da1ce554",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/pictet-group-foundation",
+          "urlHash": "b59754834d963398dda80f59c2b79b124e60d816",
+          "uuid": "b5975483-06-cf5b2710b3888adab972f68cac8a8c0df6f31e3e",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/prix-pictet",
+          "urlHash": "c0c0a8fb22538d3f1e21e6fd1cd57d7608571ce1",
+          "uuid": "c0c0a8fb-05-3bfb7e9f7949209ebed12e68a16d55c0da1ce554",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 2,
+      "source": "Columns",
+      "target": "Columns (columns2)",
+      "key": "columns2",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/BRICS-and-investment-opportunities",
+          "urlHash": "d3a178b47ab8d87b9ab8910f36e8f95630fd6f1f",
+          "uuid": "d3a178b4-03-b0bec792bff7b300babdf5cb36e9fff27ff85630",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 3,
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en",
+          "urlHash": "c993d4b4f44062d0c6562ca24bb128ea7faf30e3",
+          "uuid": "c993d4b4-04-b0bec792bff7b300babdf5cb36e9fff27ff85630",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 4,
+      "source": "Hero",
+      "target": "Hero (hero4)",
+      "key": "hero4",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en",
+          "urlHash": "c993d4b4f44062d0c6562ca24bb128ea7faf30e3",
+          "uuid": "c993d4b4-02-ff713fdafd9c4057b084722236747b3cfa3a8a93",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "source": "Columns",
+      "target": "Columns (columns5)",
+      "key": "columns5",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about",
+          "urlHash": "40f44297ec88ed014ece3f72806ce6841397d7c8",
+          "uuid": "40f44297-06-cf5b2710b3888adab972f68cac8a8c0df6f31e3e",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 6,
+      "source": "Cards",
+      "target": "Cards (cards6)",
+      "key": "cards6",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news",
+          "urlHash": "c33608aa1598a04df577d7553fae4c77d2168bd0",
+          "uuid": "c33608aa-04-85e121036c45be48086c89abe63cf40ae0eed94d",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news",
+          "urlHash": "c33608aa1598a04df577d7553fae4c77d2168bd0",
+          "uuid": "c33608aa-05-afb562c08fd048a6be36fb2ee133912170eaa62c",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news",
+          "urlHash": "c33608aa1598a04df577d7553fae4c77d2168bd0",
+          "uuid": "c33608aa-06-d799558c6b0a052a5ef282c69767071b26d929f5",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 7,
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/partners",
+          "urlHash": "32995532f1d9c1aa1b0094c3b7c31a6f7f254e39",
+          "uuid": "32995532-05-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/pictet-corporate-ratings",
+          "urlHash": "3e04a887d1c993af5e2d179d6b27a535d93aa588",
+          "uuid": "3e04a887-06-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about",
+          "urlHash": "40f44297ec88ed014ece3f72806ce6841397d7c8",
+          "uuid": "40f44297-13-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision",
+          "urlHash": "548120254ad151e9d075d2a2678f595da456d696",
+          "uuid": "54812025-05-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont",
+          "urlHash": "aa17864e1b010c07d2343c5a6b338a0761342dd3",
+          "uuid": "aa17864e-05-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont/news/green-spaces-of-the-campus",
+          "urlHash": "aeef8fce2cf0eb6578670d8004e49865eb5ef1db",
+          "uuid": "aeef8fce-07-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/pictet-group-foundation",
+          "urlHash": "b59754834d963398dda80f59c2b79b124e60d816",
+          "uuid": "b5975483-11-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/prix-pictet",
+          "urlHash": "c0c0a8fb22538d3f1e21e6fd1cd57d7608571ce1",
+          "uuid": "c0c0a8fb-07-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news",
+          "urlHash": "c33608aa1598a04df577d7553fae4c77d2168bd0",
+          "uuid": "c33608aa-09-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en",
+          "urlHash": "c993d4b4f44062d0c6562ca24bb128ea7faf30e3",
+          "uuid": "c993d4b4-09-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/release-first-half-year-2025-figures",
+          "urlHash": "d2662a611ae883792bac831fb7803be86bd3f4c2",
+          "uuid": "d2662a61-07-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/contacts",
+          "urlHash": "d2ca3fadcfef424a599357a0978f19ca7aa8b88f",
+          "uuid": "d2ca3fad-04-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/BRICS-and-investment-opportunities",
+          "urlHash": "d3a178b47ab8d87b9ab8910f36e8f95630fd6f1f",
+          "uuid": "d3a178b4-07-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/is-ai-taking-over",
+          "urlHash": "d9a37a607be9abb56a099dc12f9a4516efef30ef",
+          "uuid": "d9a37a60-07-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/stability",
+          "urlHash": "f20ac943740c146b620ace22e4f115658f1d6f6d",
+          "uuid": "f20ac943-04-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/offices",
+          "urlHash": "f628033b44518aebcd7983836f5e0fa553a197cd",
+          "uuid": "f628033b-05-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/collection-pictet",
+          "urlHash": "f81b219afdc8f73aa44266989371e15029a47766",
+          "uuid": "f81b219a-09-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/origins-of-pictet/story-worth-telling",
+          "urlHash": "f93844ba2689b679743e3ba0b25fbb4e3d929e49",
+          "uuid": "f93844ba-06-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/pictet-technologies-opens-new-hub-lisbon",
+          "urlHash": "faaf319ccf6fe60e8109dae4ffd848d5177246ed",
+          "uuid": "faaf319c-07-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 8,
+      "source": "Columns",
+      "target": "Columns (columns8)",
+      "key": "columns8",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/release-first-half-year-2025-figures",
+          "urlHash": "d2662a611ae883792bac831fb7803be86bd3f4c2",
+          "uuid": "d2662a61-04-7b293b339afc7820185724b4595871c46490ddca",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/BRICS-and-investment-opportunities",
+          "urlHash": "d3a178b47ab8d87b9ab8910f36e8f95630fd6f1f",
+          "uuid": "d3a178b4-04-7b293b339afc7820185724b4595871c46490ddca",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/is-ai-taking-over",
+          "urlHash": "d9a37a607be9abb56a099dc12f9a4516efef30ef",
+          "uuid": "d9a37a60-04-7b293b339afc7820185724b4595871c46490ddca",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/pictet-technologies-opens-new-hub-lisbon",
+          "urlHash": "faaf319ccf6fe60e8109dae4ffd848d5177246ed",
+          "uuid": "faaf319c-04-3bfb7e9f7949209ebed12e68a16d55c0da1ce554",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Video",
+      "cluster": 9,
+      "source": "Video",
+      "target": "Video (video9)",
+      "key": "video9",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont/news/green-spaces-of-the-campus",
+          "urlHash": "aeef8fce2cf0eb6578670d8004e49865eb5ef1db",
+          "uuid": "aeef8fce-02-17f1f9b884da3a8b6c62f9695d66320782f7d2fa",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/release-first-half-year-2025-figures",
+          "urlHash": "d2662a611ae883792bac831fb7803be86bd3f4c2",
+          "uuid": "d2662a61-02-17f1f9b884da3a8b6c62f9695d66320782f7d2fa",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/BRICS-and-investment-opportunities",
+          "urlHash": "d3a178b47ab8d87b9ab8910f36e8f95630fd6f1f",
+          "uuid": "d3a178b4-02-17f1f9b884da3a8b6c62f9695d66320782f7d2fa",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/is-ai-taking-over",
+          "urlHash": "d9a37a607be9abb56a099dc12f9a4516efef30ef",
+          "uuid": "d9a37a60-02-17f1f9b884da3a8b6c62f9695d66320782f7d2fa",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/pictet-technologies-opens-new-hub-lisbon",
+          "urlHash": "faaf319ccf6fe60e8109dae4ffd848d5177246ed",
+          "uuid": "faaf319c-02-17f1f9b884da3a8b6c62f9695d66320782f7d2fa",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 10,
+      "source": "Columns",
+      "target": "Columns (columns10)",
+      "key": "columns10",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/partners",
+          "urlHash": "32995532f1d9c1aa1b0094c3b7c31a6f7f254e39",
+          "uuid": "32995532-07-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/pictet-corporate-ratings",
+          "urlHash": "3e04a887d1c993af5e2d179d6b27a535d93aa588",
+          "uuid": "3e04a887-08-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about",
+          "urlHash": "40f44297ec88ed014ece3f72806ce6841397d7c8",
+          "uuid": "40f44297-15-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision",
+          "urlHash": "548120254ad151e9d075d2a2678f595da456d696",
+          "uuid": "54812025-07-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont",
+          "urlHash": "aa17864e1b010c07d2343c5a6b338a0761342dd3",
+          "uuid": "aa17864e-07-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont/news/green-spaces-of-the-campus",
+          "urlHash": "aeef8fce2cf0eb6578670d8004e49865eb5ef1db",
+          "uuid": "aeef8fce-09-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/pictet-group-foundation",
+          "urlHash": "b59754834d963398dda80f59c2b79b124e60d816",
+          "uuid": "b5975483-13-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/prix-pictet",
+          "urlHash": "c0c0a8fb22538d3f1e21e6fd1cd57d7608571ce1",
+          "uuid": "c0c0a8fb-09-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news",
+          "urlHash": "c33608aa1598a04df577d7553fae4c77d2168bd0",
+          "uuid": "c33608aa-11-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en",
+          "urlHash": "c993d4b4f44062d0c6562ca24bb128ea7faf30e3",
+          "uuid": "c993d4b4-11-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/release-first-half-year-2025-figures",
+          "urlHash": "d2662a611ae883792bac831fb7803be86bd3f4c2",
+          "uuid": "d2662a61-09-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/contacts",
+          "urlHash": "d2ca3fadcfef424a599357a0978f19ca7aa8b88f",
+          "uuid": "d2ca3fad-06-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/BRICS-and-investment-opportunities",
+          "urlHash": "d3a178b47ab8d87b9ab8910f36e8f95630fd6f1f",
+          "uuid": "d3a178b4-09-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/is-ai-taking-over",
+          "urlHash": "d9a37a607be9abb56a099dc12f9a4516efef30ef",
+          "uuid": "d9a37a60-09-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/stability",
+          "urlHash": "f20ac943740c146b620ace22e4f115658f1d6f6d",
+          "uuid": "f20ac943-06-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/offices",
+          "urlHash": "f628033b44518aebcd7983836f5e0fa553a197cd",
+          "uuid": "f628033b-07-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/collection-pictet",
+          "urlHash": "f81b219afdc8f73aa44266989371e15029a47766",
+          "uuid": "f81b219a-11-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/origins-of-pictet/story-worth-telling",
+          "urlHash": "f93844ba2689b679743e3ba0b25fbb4e3d929e49",
+          "uuid": "f93844ba-08-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/pictet-technologies-opens-new-hub-lisbon",
+          "urlHash": "faaf319ccf6fe60e8109dae4ffd848d5177246ed",
+          "uuid": "faaf319c-09-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 11,
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/partners",
+          "urlHash": "32995532f1d9c1aa1b0094c3b7c31a6f7f254e39",
+          "uuid": "32995532-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/pictet-corporate-ratings",
+          "urlHash": "3e04a887d1c993af5e2d179d6b27a535d93aa588",
+          "uuid": "3e04a887-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about",
+          "urlHash": "40f44297ec88ed014ece3f72806ce6841397d7c8",
+          "uuid": "40f44297-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision",
+          "urlHash": "548120254ad151e9d075d2a2678f595da456d696",
+          "uuid": "54812025-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont",
+          "urlHash": "aa17864e1b010c07d2343c5a6b338a0761342dd3",
+          "uuid": "aa17864e-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont/news/green-spaces-of-the-campus",
+          "urlHash": "aeef8fce2cf0eb6578670d8004e49865eb5ef1db",
+          "uuid": "aeef8fce-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/pictet-group-foundation",
+          "urlHash": "b59754834d963398dda80f59c2b79b124e60d816",
+          "uuid": "b5975483-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/prix-pictet",
+          "urlHash": "c0c0a8fb22538d3f1e21e6fd1cd57d7608571ce1",
+          "uuid": "c0c0a8fb-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news",
+          "urlHash": "c33608aa1598a04df577d7553fae4c77d2168bd0",
+          "uuid": "c33608aa-01-fa10b0cc3e50cf96dbfb75dbb07a29a5f51b17bf",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/release-first-half-year-2025-figures",
+          "urlHash": "d2662a611ae883792bac831fb7803be86bd3f4c2",
+          "uuid": "d2662a61-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/BRICS-and-investment-opportunities",
+          "urlHash": "d3a178b47ab8d87b9ab8910f36e8f95630fd6f1f",
+          "uuid": "d3a178b4-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/is-ai-taking-over",
+          "urlHash": "d9a37a607be9abb56a099dc12f9a4516efef30ef",
+          "uuid": "d9a37a60-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/offices",
+          "urlHash": "f628033b44518aebcd7983836f5e0fa553a197cd",
+          "uuid": "f628033b-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/collection-pictet",
+          "urlHash": "f81b219afdc8f73aa44266989371e15029a47766",
+          "uuid": "f81b219a-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/origins-of-pictet/story-worth-telling",
+          "urlHash": "f93844ba2689b679743e3ba0b25fbb4e3d929e49",
+          "uuid": "f93844ba-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/pictet-technologies-opens-new-hub-lisbon",
+          "urlHash": "faaf319ccf6fe60e8109dae4ffd848d5177246ed",
+          "uuid": "faaf319c-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 12,
+      "source": "Columns",
+      "target": "Columns (columns12)",
+      "key": "columns12",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/offices",
+          "urlHash": "f628033b44518aebcd7983836f5e0fa553a197cd",
+          "uuid": "f628033b-03-9f61191f31e3e4bac6b87cad77b32d637624b2b1",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 13,
+      "source": "Columns",
+      "target": "Columns (columns13)",
+      "key": "columns13",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/pictet-group-foundation",
+          "urlHash": "b59754834d963398dda80f59c2b79b124e60d816",
+          "uuid": "b5975483-03-b0bec792bff7b300babdf5cb36e9fff27ff85630",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 14,
+      "source": "Cards",
+      "target": "Cards (cards14)",
+      "key": "cards14",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news",
+          "urlHash": "c33608aa1598a04df577d7553fae4c77d2168bd0",
+          "uuid": "c33608aa-03-20c40b08dbebe1ef9191153d88b96cae32bfc8cf",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 15,
+      "source": "Columns",
+      "target": "Columns (columns15)",
+      "key": "columns15",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/pictet-group-foundation",
+          "urlHash": "b59754834d963398dda80f59c2b79b124e60d816",
+          "uuid": "b5975483-09-58a88a5d9fecc05269fc250ea335376c95d3a0f2",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 16,
+      "source": "Columns",
+      "target": "Columns (columns16)",
+      "key": "columns16",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about",
+          "urlHash": "40f44297ec88ed014ece3f72806ce6841397d7c8",
+          "uuid": "40f44297-08-507c830c3e7772f21df2987cfad825c936bd9ebf",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 17,
+      "source": "Cards",
+      "target": "Cards (cards17)",
+      "key": "cards17",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/release-first-half-year-2025-figures",
+          "urlHash": "d2662a611ae883792bac831fb7803be86bd3f4c2",
+          "uuid": "d2662a61-05-3bfb7e9f7949209ebed12e68a16d55c0da1ce554",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/BRICS-and-investment-opportunities",
+          "urlHash": "d3a178b47ab8d87b9ab8910f36e8f95630fd6f1f",
+          "uuid": "d3a178b4-05-3bfb7e9f7949209ebed12e68a16d55c0da1ce554",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/is-ai-taking-over",
+          "urlHash": "d9a37a607be9abb56a099dc12f9a4516efef30ef",
+          "uuid": "d9a37a60-05-3bfb7e9f7949209ebed12e68a16d55c0da1ce554",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/pictet-technologies-opens-new-hub-lisbon",
+          "urlHash": "faaf319ccf6fe60e8109dae4ffd848d5177246ed",
+          "uuid": "faaf319c-05-cf5b2710b3888adab972f68cac8a8c0df6f31e3e",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 18,
+      "source": "Header",
+      "target": "Header (header18)",
+      "key": "header18",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/partners",
+          "urlHash": "32995532f1d9c1aa1b0094c3b7c31a6f7f254e39",
+          "uuid": "32995532-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/pictet-corporate-ratings",
+          "urlHash": "3e04a887d1c993af5e2d179d6b27a535d93aa588",
+          "uuid": "3e04a887-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about",
+          "urlHash": "40f44297ec88ed014ece3f72806ce6841397d7c8",
+          "uuid": "40f44297-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision",
+          "urlHash": "548120254ad151e9d075d2a2678f595da456d696",
+          "uuid": "54812025-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont",
+          "urlHash": "aa17864e1b010c07d2343c5a6b338a0761342dd3",
+          "uuid": "aa17864e-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont/news/green-spaces-of-the-campus",
+          "urlHash": "aeef8fce2cf0eb6578670d8004e49865eb5ef1db",
+          "uuid": "aeef8fce-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/pictet-group-foundation",
+          "urlHash": "b59754834d963398dda80f59c2b79b124e60d816",
+          "uuid": "b5975483-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/prix-pictet",
+          "urlHash": "c0c0a8fb22538d3f1e21e6fd1cd57d7608571ce1",
+          "uuid": "c0c0a8fb-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news",
+          "urlHash": "c33608aa1598a04df577d7553fae4c77d2168bd0",
+          "uuid": "c33608aa-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en",
+          "urlHash": "c993d4b4f44062d0c6562ca24bb128ea7faf30e3",
+          "uuid": "c993d4b4-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/release-first-half-year-2025-figures",
+          "urlHash": "d2662a611ae883792bac831fb7803be86bd3f4c2",
+          "uuid": "d2662a61-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/contacts",
+          "urlHash": "d2ca3fadcfef424a599357a0978f19ca7aa8b88f",
+          "uuid": "d2ca3fad-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/BRICS-and-investment-opportunities",
+          "urlHash": "d3a178b47ab8d87b9ab8910f36e8f95630fd6f1f",
+          "uuid": "d3a178b4-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/is-ai-taking-over",
+          "urlHash": "d9a37a607be9abb56a099dc12f9a4516efef30ef",
+          "uuid": "d9a37a60-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/stability",
+          "urlHash": "f20ac943740c146b620ace22e4f115658f1d6f6d",
+          "uuid": "f20ac943-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/offices",
+          "urlHash": "f628033b44518aebcd7983836f5e0fa553a197cd",
+          "uuid": "f628033b-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/collection-pictet",
+          "urlHash": "f81b219afdc8f73aa44266989371e15029a47766",
+          "uuid": "f81b219a-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/origins-of-pictet/story-worth-telling",
+          "urlHash": "f93844ba2689b679743e3ba0b25fbb4e3d929e49",
+          "uuid": "f93844ba-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/pictet-technologies-opens-new-hub-lisbon",
+          "urlHash": "faaf319ccf6fe60e8109dae4ffd848d5177246ed",
+          "uuid": "faaf319c-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 19,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages19)",
+      "key": "cardsNoImages19",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/prix-pictet",
+          "urlHash": "c0c0a8fb22538d3f1e21e6fd1cd57d7608571ce1",
+          "uuid": "c0c0a8fb-03-b0bec792bff7b300babdf5cb36e9fff27ff85630",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 20,
+      "source": "Columns",
+      "target": "Columns (columns20)",
+      "key": "columns20",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about",
+          "urlHash": "40f44297ec88ed014ece3f72806ce6841397d7c8",
+          "uuid": "40f44297-07-156cc79f50798354e6c7f2563445a81c0d35a93f",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 21,
+      "source": "Columns",
+      "target": "Columns (columns21)",
+      "key": "columns21",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont/news/green-spaces-of-the-campus",
+          "urlHash": "aeef8fce2cf0eb6578670d8004e49865eb5ef1db",
+          "uuid": "aeef8fce-05-3bfb7e9f7949209ebed12e68a16d55c0da1ce554",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Table",
+      "cluster": 22,
+      "source": "Table",
+      "target": "Table (table22)",
+      "key": "table22",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about",
+          "urlHash": "40f44297ec88ed014ece3f72806ce6841397d7c8",
+          "uuid": "40f44297-03-b0bec792bff7b300babdf5cb36e9fff27ff85630",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.pictet.com/global/en",
+          "urlHash": "c993d4b4f44062d0c6562ca24bb128ea7faf30e3",
+          "uuid": "c993d4b4-05-7b293b339afc7820185724b4595871c46490ddca",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 23,
+      "source": "Columns",
+      "target": "Columns (columns23)",
+      "key": "columns23",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/stability",
+          "urlHash": "f20ac943740c146b620ace22e4f115658f1d6f6d",
+          "uuid": "f20ac943-02-9f61191f31e3e4bac6b87cad77b32d637624b2b1",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 24,
+      "source": "Hero",
+      "target": "Hero (hero24)",
+      "key": "hero24",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/contacts",
+          "urlHash": "d2ca3fadcfef424a599357a0978f19ca7aa8b88f",
+          "uuid": "d2ca3fad-01-1738bb2805773c738372582c86d96107a239a80f",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 25,
+      "source": "Carousel",
+      "target": "Carousel (carousel25)",
+      "key": "carousel25",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/collection-pictet",
+          "urlHash": "f81b219afdc8f73aa44266989371e15029a47766",
+          "uuid": "f81b219a-04-7b293b339afc7820185724b4595871c46490ddca",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 26,
+      "source": "Cards",
+      "target": "Cards (cards26)",
+      "key": "cards26",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont/news/green-spaces-of-the-campus",
+          "urlHash": "aeef8fce2cf0eb6578670d8004e49865eb5ef1db",
+          "uuid": "aeef8fce-04-7b293b339afc7820185724b4595871c46490ddca",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 27,
+      "source": "Columns",
+      "target": "Columns (columns27)",
+      "key": "columns27",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision",
+          "urlHash": "548120254ad151e9d075d2a2678f595da456d696",
+          "uuid": "54812025-03-9f61191f31e3e4bac6b87cad77b32d637624b2b1",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 28,
+      "source": "Columns",
+      "target": "Columns (columns28)",
+      "key": "columns28",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont",
+          "urlHash": "aa17864e1b010c07d2343c5a6b338a0761342dd3",
+          "uuid": "aa17864e-03-9f61191f31e3e4bac6b87cad77b32d637624b2b1",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 29,
+      "source": "Hero",
+      "target": "Hero (hero29)",
+      "key": "hero29",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/stability",
+          "urlHash": "f20ac943740c146b620ace22e4f115658f1d6f6d",
+          "uuid": "f20ac943-01-1738bb2805773c738372582c86d96107a239a80f",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 30,
+      "source": "Columns",
+      "target": "Columns (columns30)",
+      "key": "columns30",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/pictet-corporate-ratings",
+          "urlHash": "3e04a887d1c993af5e2d179d6b27a535d93aa588",
+          "uuid": "3e04a887-04-9f61191f31e3e4bac6b87cad77b32d637624b2b1",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 31,
+      "source": "Columns",
+      "target": "Columns (columns31)",
+      "key": "columns31",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about",
+          "urlHash": "40f44297ec88ed014ece3f72806ce6841397d7c8",
+          "uuid": "40f44297-05-3bfb7e9f7949209ebed12e68a16d55c0da1ce554",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 32,
+      "source": "Columns",
+      "target": "Columns (columns32)",
+      "key": "columns32",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/origins-of-pictet/story-worth-telling",
+          "urlHash": "f93844ba2689b679743e3ba0b25fbb4e3d929e49",
+          "uuid": "f93844ba-04-9f61191f31e3e4bac6b87cad77b32d637624b2b1",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 33,
+      "source": "Columns",
+      "target": "Columns (columns33)",
+      "key": "columns33",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/partners",
+          "urlHash": "32995532f1d9c1aa1b0094c3b7c31a6f7f254e39",
+          "uuid": "32995532-03-9f61191f31e3e4bac6b87cad77b32d637624b2b1",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 34,
+      "source": "Columns",
+      "target": "Columns (columns34)",
+      "key": "columns34",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/partners",
+          "urlHash": "32995532f1d9c1aa1b0094c3b7c31a6f7f254e39",
+          "uuid": "32995532-04-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/pictet-corporate-ratings",
+          "urlHash": "3e04a887d1c993af5e2d179d6b27a535d93aa588",
+          "uuid": "3e04a887-05-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about",
+          "urlHash": "40f44297ec88ed014ece3f72806ce6841397d7c8",
+          "uuid": "40f44297-12-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision",
+          "urlHash": "548120254ad151e9d075d2a2678f595da456d696",
+          "uuid": "54812025-04-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont",
+          "urlHash": "aa17864e1b010c07d2343c5a6b338a0761342dd3",
+          "uuid": "aa17864e-04-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont/news/green-spaces-of-the-campus",
+          "urlHash": "aeef8fce2cf0eb6578670d8004e49865eb5ef1db",
+          "uuid": "aeef8fce-06-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/pictet-group-foundation",
+          "urlHash": "b59754834d963398dda80f59c2b79b124e60d816",
+          "uuid": "b5975483-10-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/prix-pictet",
+          "urlHash": "c0c0a8fb22538d3f1e21e6fd1cd57d7608571ce1",
+          "uuid": "c0c0a8fb-06-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news",
+          "urlHash": "c33608aa1598a04df577d7553fae4c77d2168bd0",
+          "uuid": "c33608aa-08-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en",
+          "urlHash": "c993d4b4f44062d0c6562ca24bb128ea7faf30e3",
+          "uuid": "c993d4b4-08-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/release-first-half-year-2025-figures",
+          "urlHash": "d2662a611ae883792bac831fb7803be86bd3f4c2",
+          "uuid": "d2662a61-06-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/contacts",
+          "urlHash": "d2ca3fadcfef424a599357a0978f19ca7aa8b88f",
+          "uuid": "d2ca3fad-03-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/BRICS-and-investment-opportunities",
+          "urlHash": "d3a178b47ab8d87b9ab8910f36e8f95630fd6f1f",
+          "uuid": "d3a178b4-06-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/is-ai-taking-over",
+          "urlHash": "d9a37a607be9abb56a099dc12f9a4516efef30ef",
+          "uuid": "d9a37a60-06-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/stability",
+          "urlHash": "f20ac943740c146b620ace22e4f115658f1d6f6d",
+          "uuid": "f20ac943-03-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/offices",
+          "urlHash": "f628033b44518aebcd7983836f5e0fa553a197cd",
+          "uuid": "f628033b-04-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/collection-pictet",
+          "urlHash": "f81b219afdc8f73aa44266989371e15029a47766",
+          "uuid": "f81b219a-08-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/origins-of-pictet/story-worth-telling",
+          "urlHash": "f93844ba2689b679743e3ba0b25fbb4e3d929e49",
+          "uuid": "f93844ba-05-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/pictet-technologies-opens-new-hub-lisbon",
+          "urlHash": "faaf319ccf6fe60e8109dae4ffd848d5177246ed",
+          "uuid": "faaf319c-06-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 35,
+      "source": "Columns",
+      "target": "Columns (columns35)",
+      "key": "columns35",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/contacts",
+          "urlHash": "d2ca3fadcfef424a599357a0978f19ca7aa8b88f",
+          "uuid": "d2ca3fad-02-9f61191f31e3e4bac6b87cad77b32d637624b2b1",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 36,
+      "source": "Columns",
+      "target": "Columns (columns36)",
+      "key": "columns36",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/partners",
+          "urlHash": "32995532f1d9c1aa1b0094c3b7c31a6f7f254e39",
+          "uuid": "32995532-06-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/pictet-corporate-ratings",
+          "urlHash": "3e04a887d1c993af5e2d179d6b27a535d93aa588",
+          "uuid": "3e04a887-07-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about",
+          "urlHash": "40f44297ec88ed014ece3f72806ce6841397d7c8",
+          "uuid": "40f44297-14-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision",
+          "urlHash": "548120254ad151e9d075d2a2678f595da456d696",
+          "uuid": "54812025-06-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont",
+          "urlHash": "aa17864e1b010c07d2343c5a6b338a0761342dd3",
+          "uuid": "aa17864e-06-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont/news/green-spaces-of-the-campus",
+          "urlHash": "aeef8fce2cf0eb6578670d8004e49865eb5ef1db",
+          "uuid": "aeef8fce-08-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/pictet-group-foundation",
+          "urlHash": "b59754834d963398dda80f59c2b79b124e60d816",
+          "uuid": "b5975483-12-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/prix-pictet",
+          "urlHash": "c0c0a8fb22538d3f1e21e6fd1cd57d7608571ce1",
+          "uuid": "c0c0a8fb-08-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news",
+          "urlHash": "c33608aa1598a04df577d7553fae4c77d2168bd0",
+          "uuid": "c33608aa-10-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en",
+          "urlHash": "c993d4b4f44062d0c6562ca24bb128ea7faf30e3",
+          "uuid": "c993d4b4-10-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/release-first-half-year-2025-figures",
+          "urlHash": "d2662a611ae883792bac831fb7803be86bd3f4c2",
+          "uuid": "d2662a61-08-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/contacts",
+          "urlHash": "d2ca3fadcfef424a599357a0978f19ca7aa8b88f",
+          "uuid": "d2ca3fad-05-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/BRICS-and-investment-opportunities",
+          "urlHash": "d3a178b47ab8d87b9ab8910f36e8f95630fd6f1f",
+          "uuid": "d3a178b4-08-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/is-ai-taking-over",
+          "urlHash": "d9a37a607be9abb56a099dc12f9a4516efef30ef",
+          "uuid": "d9a37a60-08-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/stability",
+          "urlHash": "f20ac943740c146b620ace22e4f115658f1d6f6d",
+          "uuid": "f20ac943-05-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/offices",
+          "urlHash": "f628033b44518aebcd7983836f5e0fa553a197cd",
+          "uuid": "f628033b-06-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/collection-pictet",
+          "urlHash": "f81b219afdc8f73aa44266989371e15029a47766",
+          "uuid": "f81b219a-10-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/origins-of-pictet/story-worth-telling",
+          "urlHash": "f93844ba2689b679743e3ba0b25fbb4e3d929e49",
+          "uuid": "f93844ba-07-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/pictet-technologies-opens-new-hub-lisbon",
+          "urlHash": "faaf319ccf6fe60e8109dae4ffd848d5177246ed",
+          "uuid": "faaf319c-08-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 37,
+      "source": "Columns",
+      "target": "Columns (columns37)",
+      "key": "columns37",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en",
+          "urlHash": "c993d4b4f44062d0c6562ca24bb128ea7faf30e3",
+          "uuid": "c993d4b4-06-3bfb7e9f7949209ebed12e68a16d55c0da1ce554",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 38,
+      "source": "Columns",
+      "target": "Columns (columns38)",
+      "key": "columns38",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about",
+          "urlHash": "40f44297ec88ed014ece3f72806ce6841397d7c8",
+          "uuid": "40f44297-09-adbc6f24b51acc32e06cf2efc6ed48ba69e96293",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about",
+          "urlHash": "40f44297ec88ed014ece3f72806ce6841397d7c8",
+          "uuid": "40f44297-10-a046310f22fd438819102ae199d4464eedb95042",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 39,
+      "source": "Columns",
+      "target": "Columns (columns39)",
+      "key": "columns39",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/pictet-technologies-opens-new-hub-lisbon",
+          "urlHash": "faaf319ccf6fe60e8109dae4ffd848d5177246ed",
+          "uuid": "faaf319c-03-b0bec792bff7b300babdf5cb36e9fff27ff85630",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 40,
+      "source": "Columns",
+      "target": "Columns (columns40)",
+      "key": "columns40",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about",
+          "urlHash": "40f44297ec88ed014ece3f72806ce6841397d7c8",
+          "uuid": "40f44297-04-7b293b339afc7820185724b4595871c46490ddca",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 41,
+      "source": "Columns",
+      "target": "Columns (columns41)",
+      "key": "columns41",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont/news/green-spaces-of-the-campus",
+          "urlHash": "aeef8fce2cf0eb6578670d8004e49865eb5ef1db",
+          "uuid": "aeef8fce-03-b0bec792bff7b300babdf5cb36e9fff27ff85630",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/is-ai-taking-over",
+          "urlHash": "d9a37a607be9abb56a099dc12f9a4516efef30ef",
+          "uuid": "d9a37a60-03-b0bec792bff7b300babdf5cb36e9fff27ff85630",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 42,
+      "source": "Columns",
+      "target": "Columns (columns42)",
+      "key": "columns42",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/pictet-group-foundation",
+          "urlHash": "b59754834d963398dda80f59c2b79b124e60d816",
+          "uuid": "b5975483-04-7b293b339afc7820185724b4595871c46490ddca",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/global/en/about/collection-pictet",
+          "urlHash": "f81b219afdc8f73aa44266989371e15029a47766",
+          "uuid": "f81b219a-05-3bfb7e9f7949209ebed12e68a16d55c0da1ce554",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 43,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages43)",
+      "key": "cardsNoImages43",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en",
+          "urlHash": "c993d4b4f44062d0c6562ca24bb128ea7faf30e3",
+          "uuid": "c993d4b4-07-cf5b2710b3888adab972f68cac8a8c0df6f31e3e",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 44,
+      "source": "Columns",
+      "target": "Columns (columns44)",
+      "key": "columns44",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/collection-pictet",
+          "urlHash": "f81b219afdc8f73aa44266989371e15029a47766",
+          "uuid": "f81b219a-03-b0bec792bff7b300babdf5cb36e9fff27ff85630",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 45,
+      "source": "Cards",
+      "target": "Cards (cards45)",
+      "key": "cards45",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/collection-pictet",
+          "urlHash": "f81b219afdc8f73aa44266989371e15029a47766",
+          "uuid": "f81b219a-06-cf5b2710b3888adab972f68cac8a8c0df6f31e3e",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 46,
+      "source": "Hero",
+      "target": "Hero (hero46)",
+      "key": "hero46",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/about/collection-pictet",
+          "urlHash": "f81b219afdc8f73aa44266989371e15029a47766",
+          "uuid": "f81b219a-07-156cc79f50798354e6c7f2563445a81c0d35a93f",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 47,
+      "source": "Cards",
+      "target": "Cards (cards47)",
+      "key": "cards47",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news",
+          "urlHash": "c33608aa1598a04df577d7553fae4c77d2168bd0",
+          "uuid": "c33608aa-07-b5275794ebf7b3fb442bb795aa462ee7df856a24",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 48,
+      "source": "Columns",
+      "target": "Columns (columns48)",
+      "key": "columns48",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/corporate-news/release-first-half-year-2025-figures",
+          "urlHash": "d2662a611ae883792bac831fb7803be86bd3f4c2",
+          "uuid": "d2662a61-03-b0bec792bff7b300babdf5cb36e9fff27ff85630",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 49,
+      "source": "Columns",
+      "target": "Columns (columns49)",
+      "key": "columns49",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/pictet-group-foundation",
+          "urlHash": "b59754834d963398dda80f59c2b79b124e60d816",
+          "uuid": "b5975483-07-156cc79f50798354e6c7f2563445a81c0d35a93f",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 50,
+      "source": "Columns",
+      "target": "Columns (columns50)",
+      "key": "columns50",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/prix-pictet",
+          "urlHash": "c0c0a8fb22538d3f1e21e6fd1cd57d7608571ce1",
+          "uuid": "c0c0a8fb-02-17f1f9b884da3a8b6c62f9695d66320782f7d2fa",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 51,
+      "source": "Columns",
+      "target": "Columns (columns51)",
+      "key": "columns51",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/global/en/responsible-vision/prix-pictet",
+          "urlHash": "c0c0a8fb22538d3f1e21e6fd1cd57d7608571ce1",
+          "uuid": "c0c0a8fb-04-7b293b339afc7820185724b4595871c46490ddca",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.pictet.com/global/en/about/partners",
+      "urlHash": "32995532f1d9c1aa1b0094c3b7c31a6f7f254e39",
+      "uuid": "32995532-02-5d27afef2ead8c4d20c64c267066d70c5fb7f8dc",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/about/pictet-corporate-ratings",
+      "urlHash": "3e04a887d1c993af5e2d179d6b27a535d93aa588",
+      "uuid": "3e04a887-02-5d27afef2ead8c4d20c64c267066d70c5fb7f8dc",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/about/pictet-corporate-ratings",
+      "urlHash": "3e04a887d1c993af5e2d179d6b27a535d93aa588",
+      "uuid": "3e04a887-03-938729b38fb04882afcfc2d7cf9f9ee7dd369c45",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/about",
+      "urlHash": "40f44297ec88ed014ece3f72806ce6841397d7c8",
+      "uuid": "40f44297-02-5d27afef2ead8c4d20c64c267066d70c5fb7f8dc",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/responsible-vision",
+      "urlHash": "548120254ad151e9d075d2a2678f595da456d696",
+      "uuid": "54812025-02-5d27afef2ead8c4d20c64c267066d70c5fb7f8dc",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/about/campus-pictet-de-rochemont",
+      "urlHash": "aa17864e1b010c07d2343c5a6b338a0761342dd3",
+      "uuid": "aa17864e-02-5d27afef2ead8c4d20c64c267066d70c5fb7f8dc",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/responsible-vision/pictet-group-foundation",
+      "urlHash": "b59754834d963398dda80f59c2b79b124e60d816",
+      "uuid": "b5975483-02-5d27afef2ead8c4d20c64c267066d70c5fb7f8dc",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/responsible-vision/pictet-group-foundation",
+      "urlHash": "b59754834d963398dda80f59c2b79b124e60d816",
+      "uuid": "b5975483-08-507c830c3e7772f21df2987cfad825c936bd9ebf",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/corporate-news",
+      "urlHash": "c33608aa1598a04df577d7553fae4c77d2168bd0",
+      "uuid": "c33608aa-02-b25d0634ee3333198eb21cf051ee1ccce201e96e",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/global/en",
+      "urlHash": "c993d4b4f44062d0c6562ca24bb128ea7faf30e3",
+      "uuid": "c993d4b4-01-dc6b9a2310483564e37f8a5839331dd2fd1489ee",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://www.pictet.com/global/en",
+      "urlHash": "c993d4b4f44062d0c6562ca24bb128ea7faf30e3",
+      "uuid": "c993d4b4-03-17f1f9b884da3a8b6c62f9695d66320782f7d2fa",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/offices",
+      "urlHash": "f628033b44518aebcd7983836f5e0fa553a197cd",
+      "uuid": "f628033b-02-5d27afef2ead8c4d20c64c267066d70c5fb7f8dc",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/about/collection-pictet",
+      "urlHash": "f81b219afdc8f73aa44266989371e15029a47766",
+      "uuid": "f81b219a-02-5d27afef2ead8c4d20c64c267066d70c5fb7f8dc",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/about/origins-of-pictet/story-worth-telling",
+      "urlHash": "f93844ba2689b679743e3ba0b25fbb4e3d929e49",
+      "uuid": "f93844ba-02-5d27afef2ead8c4d20c64c267066d70c5fb7f8dc",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/global/en/about/origins-of-pictet/story-worth-telling",
+      "urlHash": "f93844ba2689b679743e3ba0b25fbb4e3d929e49",
+      "uuid": "f93844ba-03-938729b38fb04882afcfc2d7cf9f9ee7dd369c45",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/nav[1]"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 171
+    },
+    {
+      "name": "section-2",
+      "background": "rgb(247, 247, 247) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 2
+    },
+    {
+      "name": "section-3",
+      "background": "rgb(242, 237, 236) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-4",
+      "background": "rgb(245, 243, 243) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 6
+    }
+  ]
+}
